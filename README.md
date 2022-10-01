@@ -16,11 +16,6 @@
 </pre> 
 
 
-### 🤝🏻  My Social
-
-[![social](https://img.shields.io/badge/-Discord-gray?logo=discord)](https://discord.com/users/528891881577381899)
-
-
 ### ⭐️ &nbsp;Github Stats
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
@@ -31,3 +26,7 @@
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/MAG10d/count.svg" />
+
+### 📫 Reach me at
+
+[![social](https://img.shields.io/badge/-Discord-gray?logo=discord)](https://discord.com/users/528891881577381899)
