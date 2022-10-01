@@ -14,6 +14,10 @@
      
 <strong>Hi, I am MAGd_!👋 </strong>
 </pre> 
+
+
+### 🤝🏻  My Social
+
 [![social](https://img.shields.io/badge/-Discord-gray?logo=discord)](https://discord.com/users/528891881577381899)
 
 
