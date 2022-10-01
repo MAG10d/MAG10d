@@ -18,9 +18,9 @@
 
 ### ⭐️ &nbsp;Github Stats
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=high-contrast&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAG10d&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAG10d&count_private=true&show_icons=true&theme=dark"/>
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 
 
