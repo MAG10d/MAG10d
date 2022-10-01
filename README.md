@@ -27,12 +27,7 @@
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/MAG10d/count.svg" />
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mag10d/mag10d/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/10/2022 12:00:00 UTC+8
+ Last Updated on 01/10/2022 12:01:47 UTC+8
 
 ### 📫 Reach me at
 
