@@ -20,14 +20,15 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=high-contrast&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAG10d&count_private=true&show_icons=true&theme=dark"/>
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide=html,&hide_border=true&title_color=5391FE&text_color=FFFFFF&layout=compact&theme=dark"
+<p align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
 
 
-### 🛳 &nbsp;Your ticket ID for this visit
+### 🛳 &nbsp;My ticket ID for this visit
 <img src="https://profile-counter.glitch.me/MAG10d/count.svg" />
 
- Last Updated on 01/10/2022 12:01:47 UTC+8
+ Last Updated on 01/10/2022 12:16:10 UTC+8
 
 ### 📫 Reach me at
 
