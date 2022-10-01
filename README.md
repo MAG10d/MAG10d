@@ -29,4 +29,4 @@
 
 ### 📫 Reach me at
 
-[![social](https://img.shields.io/badge/-Discord-gray?logo=discord)](https://discord.com/users/528891881577381899)
+[![social](https://img.shields.io/static/v1?label=&message=Discord&color=5662f6&logo=Discord&logoColor=FFFFFF)](https://discord.com/users/528891881577381899)
