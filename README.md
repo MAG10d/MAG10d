@@ -19,6 +19,13 @@
 </pre> 
 
 
+**Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+
+
 ### ⭐️ &nbsp;Github Stats
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=high-contrast&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
@@ -34,4 +41,12 @@
 
 ### 📫 Reach me at
 
-[![social](https://img.shields.io/static/v1?label=&message=Discord&color=0d1117&logo=Discord&logoColor=FFFFFF)](https://discord.com/users/528891881577381899)
+<hr>
+
+<p align="center">
+<br>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://discord.com/users/528891881577381899"><img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+
+<br>
+</p>
