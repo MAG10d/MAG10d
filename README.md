@@ -24,7 +24,7 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=high-contrast&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
 
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 
