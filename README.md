@@ -31,7 +31,6 @@
 ### 🛳 &nbsp;My ticket ID for this visit
 <img src="https://profile-counter.glitch.me/MAG10d/count.svg" />
 
- Last Updated on 01/10/2022 12:16:10 UTC+8
 
 ### 📫 Reach me at
 
