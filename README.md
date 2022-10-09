@@ -32,6 +32,8 @@
 
 <p align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
+</p>
+<p align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide_border=true&langs_count=8&theme=dark" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAGd_&hide_border=true&theme=dark">
 </p>
