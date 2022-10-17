@@ -15,15 +15,8 @@
 |   ;/            `--''             \   \ .'      \   \  /    ,---, '   .'  
 '---'                                `---`         `----'     ;   |  .'     
                                                               `---'         
-<strong>Hi, I am MAGd_!👋 </strong>
+<strong>Hi, I am MAGd_!👋 </strong> <strong>Learning: </strong><a title="Visual Basic"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" width="20" height="20"></a><a title="Html"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/html.svg" width="20" height="20"></a><a title="Golang"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/go.svg" width="20" height="20"></a>
 </pre> 
-
-
-**Learning:**
-
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
 
 
 ### ⭐️ &nbsp;Github Stats
