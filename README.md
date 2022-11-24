@@ -15,7 +15,7 @@
 |   ;/            `--''             \   \ .'      \   \  /    ,---, '   .'  
 '---'                                `---`         `----'     ;   |  .'     
                                                               `---'         
-<strong>Hi, I am MAGd_!👋 </strong> <strong>Learning: </strong><a title="Visual Basic"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" width="20" height="20"></a><a title="Html"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/html.svg" width="20" height="20"></a><a title="Golang"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/go.svg" width="20" height="20"></a>
+<strong>Hi, I am MAGd_!👋 </strong> <strong>Learning: </strong><a title="Visual Basic"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" width="20" height="20">
 </pre> 
 
 
