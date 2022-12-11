@@ -1,38 +1,18 @@
-# MAGd_
-<pre>
-          ____                                                             
-        ,'  , `.     ,---,           ,----..                               
-     ,-+-,.' _ |    '  .' \         /   /   \          ,---,               
-  ,-+-. ;   , ||   /  ;    '.      |   :     :       ,---.'|               
- ,--.'|'   |  ;|  :  :       \     .   |  ;. /       |   | :               
-|   |  ,', |  ':  :  |   /\   \    .   ; /--`        |   | |               
-|   | /  | |  ||  |  :  ' ;.   :   ;   | ;  __     ,--.__| |               
-'   | :  | :  |,  |  |  ;/  \   \  |   : |.' .'   /   ,'   |               
-;   . |  ; |--'   '  :  | \  \ ,'  .   | '_.' :  .   '  /  |               
-|   : |  | ,      |  |  '  '--'    '   ; : \  |  '   ; |:  |           ___  
-|   : '  |/       |  :  :          '   | '/  .'  |   | '/  '        .'  .`| 
-;   | |`-'        |  | ,'          |   :    /    |   :    :|     .'  .'   : 
-|   ;/            `--''             \   \ .'      \   \  /    ,---, '   .'  
-'---'                                `---`         `----'     ;   |  .'     
-                                                              `---'         
-<strong>Hi, I am MAGd_!👋 </strong> <strong>Learning: </strong><a title="Visual Basic"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" width="20" height="20">
-</pre> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&color=FFFFFF&lines=Hi,+I'm+MAGd_+%3A%3E;Welcome+to+my+profile+!;I'm+a+student+from+HK;and+I'm+always+learning+new+things+!)](https://git.io/typing-svg)
 
-
-### ⭐️ &nbsp;Github Stats
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=mag10d&custom_title=MAGd_%20activity%20graph&theme=high-contrast&hide_border=true)](https://github.com/mag10d/github-readme-activity-graph)
-
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
-</p>
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide_border=true&langs_count=8&theme=dark" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAGd_&hide_border=true&theme=dark">
+<!-- Stats -->
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mag10d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
+<br/>
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mag10d&theme=dark&hide_border=true">
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAGd_&hide_border=true&theme=dark">
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mag10d&hide_border=true&langs_count=8&theme=dark"/>
 </p>
 
 
-### 🛳 &nbsp;My ticket ID for this visit
+### 🛳 &nbsp;Ticket ID for this visit
 <img src="https://profile-counter.glitch.me/MAG10d/count.svg" />
 
 
